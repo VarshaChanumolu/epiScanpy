@@ -1,5 +1,5 @@
 import numpy as np
-from numpy inport Nan
+from numpy inport NaN
 
 # chromosomes for 2 principal species. If you work with another genome
 # the chromosomes will have to be specified
